@@ -33,9 +33,9 @@ This project is a Hotel Management System built using Python with a graphical us
       ```bash
       pip install mysql-connector-python
       ```
-    - Run the `hotel_management.py` script:
+    - Run the `Hotel_Management.py` script:
       ```bash
-      python hotel_management.py
+      python Hotel_Management.py
       ```
     - The GUI will launch, allowing you to interact with the hotel management system.
 
