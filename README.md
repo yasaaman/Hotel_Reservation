@@ -2,7 +2,7 @@
 
 This project is a Hotel Management System built using Python with a graphical user interface (GUI) created with Tkinter. It connects to a MySQL database to manage various aspects of hotel operations including guest information, room status, reservations, and office personnel.
 
-### Features
+## Features
 
 1. **Guest Management**
     - Add new guests with details such as ID, name, lastname, nationality, phone, and email.
@@ -22,7 +22,7 @@ This project is a Hotel Management System built using Python with a graphical us
     - Add new office personnel with details such as personnel ID, registration date, and registration time.
     - View a list of all office personnel with their respective details.
 
-### How to Use
+## How to Use
 
 1. **Database Setup**
     - Ensure you have MySQL installed and running.
@@ -38,7 +38,7 @@ This project is a Hotel Management System built using Python with a graphical us
       ```
     - The GUI will launch, allowing you to interact with the hotel management system.
 
-### Code Overview
+## Code Overview
 
 - **Database Connection**: Establishes a connection to the MySQL database.
 - **GUI Creation**: Uses Tkinter to create a multi-tabbed interface for managing different aspects of the hotel.
