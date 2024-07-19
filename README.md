@@ -1,5 +1,4 @@
-# Hotel_reservation
-## Hotel Management System
+# Hotel Management System
 
 This project is a Hotel Management System built using Python with a graphical user interface (GUI) created with Tkinter. It connects to a MySQL database to manage various aspects of hotel operations including guest information, room status, reservations, and office personnel.
 
